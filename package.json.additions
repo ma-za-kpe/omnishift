@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "winston": "^3.11.0",
+    "winston-daily-rotate-file": "^4.7.1",
+    "@logtail/node": "^0.4.19",
+    "@slack/web-api": "^6.12.0",
+    "twilio": "^4.19.3"
+  },
+  "devDependencies": {
+    "@types/winston": "^2.4.4"
+  }
+}
